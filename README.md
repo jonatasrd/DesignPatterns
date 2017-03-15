@@ -6,3 +6,4 @@ Nesse curso são abordados os seguintes padrões:
 - Chain of Responsability
 - Decorator
 - Template Method
+- State
