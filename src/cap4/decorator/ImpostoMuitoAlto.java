@@ -1,4 +1,4 @@
-package cap3.decorator;
+package cap4.decorator;
 
 public class ImpostoMuitoAlto extends Imposto{
 	

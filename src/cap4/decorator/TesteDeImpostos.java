@@ -1,4 +1,4 @@
-package cap3.decorator;
+package cap4.decorator;
 
 public class TesteDeImpostos {
 	public static void main(String[] args) {

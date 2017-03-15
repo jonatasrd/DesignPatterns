@@ -1,4 +1,4 @@
-package cap3.decorator;
+package cap5.state;
 
 public class Item {
 	private String nome;

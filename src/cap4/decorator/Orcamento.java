@@ -1,4 +1,4 @@
-package cap3.decorator;
+package cap4.decorator;
 
 import java.util.ArrayList;
 import java.util.Collections;
